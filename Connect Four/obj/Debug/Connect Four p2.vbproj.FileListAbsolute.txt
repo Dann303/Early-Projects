@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\SharpDevelop Projects\Connect Four p2\bin\Debug\Connect Four p2.exe
+C:\Users\miche\Documents\SharpDevelop Projects\Connect Four p2\bin\Debug\Connect Four p2.pdb
+C:\Users\miche\Documents\SharpDevelop Projects\Connect Four p2\obj\Debug\Connect Four p2.vbprojResolveAssemblyReference.cache
+C:\Users\miche\Documents\SharpDevelop Projects\Connect Four p2\obj\Debug\Connect Four p2.exe
+C:\Users\miche\Documents\SharpDevelop Projects\Connect Four p2\obj\Debug\Connect Four p2.pdb

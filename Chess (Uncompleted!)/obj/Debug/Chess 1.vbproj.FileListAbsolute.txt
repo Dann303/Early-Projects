@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\SharpDevelop Projects\Chess 1\obj\Debug\Chess 1.vbprojResolveAssemblyReference.cache
+C:\Users\miche\Documents\SharpDevelop Projects\Chess 1\bin\Debug\Chess 1.exe
+C:\Users\miche\Documents\SharpDevelop Projects\Chess 1\bin\Debug\Chess 1.pdb
+C:\Users\miche\Documents\SharpDevelop Projects\Chess 1\obj\Debug\Chess 1.exe
+C:\Users\miche\Documents\SharpDevelop Projects\Chess 1\obj\Debug\Chess 1.pdb

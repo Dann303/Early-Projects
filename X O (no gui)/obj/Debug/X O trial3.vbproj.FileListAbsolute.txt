@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\SharpDevelop Projects\X O trial3\bin\Debug\X O trial3.exe
+C:\Users\miche\Documents\SharpDevelop Projects\X O trial3\bin\Debug\X O trial3.pdb
+C:\Users\miche\Documents\SharpDevelop Projects\X O trial3\obj\Debug\X O trial3.vbprojResolveAssemblyReference.cache
+C:\Users\miche\Documents\SharpDevelop Projects\X O trial3\obj\Debug\X O trial3.exe
+C:\Users\miche\Documents\SharpDevelop Projects\X O trial3\obj\Debug\X O trial3.pdb
